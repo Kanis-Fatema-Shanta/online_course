@@ -1,0 +1,20 @@
+.enrolled-container{
+    overflow: auto;
+    height: 350px;
+    padding: 10px 10px;
+}
+
+.enrolled-items{
+    margin: 10px 5px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px gray;
+    background-color: rgb(220, 233, 211);
+    padding: 10px 0px;
+    font-size: 14px;
+    text-align: left;
+    
+}
+.enrolled-items img{
+    border-radius: 50%;
+    margin-top: 0px;
+}

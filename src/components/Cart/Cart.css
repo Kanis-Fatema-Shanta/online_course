@@ -1,0 +1,15 @@
+.cart{
+    background-color: rgb(238, 234, 234);
+    height: 470px;
+    width: 400px;
+    padding: 10px 5px;
+    margin-top: 20px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px gray;
+    text-align: center;
+}
+.cart-top{
+
+}
+.catt-list{
+}

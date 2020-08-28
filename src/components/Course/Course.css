@@ -1,0 +1,32 @@
+.course-list{
+    height: 500px;
+    overflow: auto;
+    overflow-x: hidden;
+}
+.items{
+    width: 350px;
+    margin: 20px 20px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px gray;
+    background-color: rgb(226, 226, 226);
+    padding: 10px 10px;
+    overflow: auto;
+}
+.items img{
+    border-radius: 50%;
+    margin-top: 20px;
+}
+.items img h5{
+    font-size: 18px;
+}
+.button{
+    background-color: orange;
+    border: none;
+}
+.button:hover{
+    color: white;
+    border:none;
+    border-style: none;
+    background-color: rgb(115, 57, 223);
+    font-weight: 600;
+}
